@@ -1,0 +1,17 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: black;
+}
+
+#canvas1 {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    width: 1280;
+    height: 720;
+    transform: translate(-50%,-50%);
+}
